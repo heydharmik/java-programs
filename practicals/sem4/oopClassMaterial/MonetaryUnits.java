@@ -27,7 +27,7 @@ public class MonetaryUnits {
 			pennies = dollars * 100;
 			cents = dollars * 100;
 		
-			System.out.println("You have enterd " + dollars + "dollars\nTherefore,");
+			System.out.println("You have enterd " + dollars + " dollars\nTherefore,");
 			System.out.println("Cents = " + cents + "\nQuarters = " + quarters + "\nDimes = " + dimes + "\nNickel = " + nickel + "\nPennies = " + pennies);			
 			break;
 		case 2:
